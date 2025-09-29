@@ -89,8 +89,8 @@ def index():
                 box_shadow="0 4px 12px rgba(0, 0, 0, 0.1)",
                 padding="32px",
                 style=rx.color_mode_cond(
-                    {"background": "linear-gradient(#669bbc, #003049, #fdf0d5, #c1121f, #780000)"},  # modo claro
-                    {"background": "#1a1a1a"}  # modo oscuro
+                    {"background": "linear-gradient(#669bbc, #003049, #fdf0d5, #c1121f, #780000)"},  # white mode
+                    {"background": "#1a1a1a"}  # dark mode
                 ),
                 width="100%",
                 max_width="500px",
@@ -101,8 +101,8 @@ def index():
         ),
         padding="16px",
         background=rx.color_mode_cond(
-            "linear-gradient(#780000, #c1121f, #fdf0d5, #003049, #669bbc)",  # modo claro
-            "#121212"  # modo oscuro
+            "linear-gradient(#780000, #c1121f, #fdf0d5, #003049, #669bbc)",  # white mode
+            "#121212"  # dark mode
         ),
     )
 
