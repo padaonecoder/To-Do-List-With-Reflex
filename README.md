@@ -60,5 +60,5 @@ If you have any questions or suggestions, feel free to reach out: [padaonecoder@
 
 🐙 GitHub Profile
 
-Check out more of my work on [GitHub](https://github.com/padaonecoder)
+Check out more of my work! [GitHub](https://github.com/padaonecoder)
 
