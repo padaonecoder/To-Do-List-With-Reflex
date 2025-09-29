@@ -1,0 +1,20 @@
+# Automatically generated files and folders
+__pycache__/
+.web/
+.states/
+*.db
+*.log
+
+# Compiled Python files
+*.py[cod]
+
+# Virtual environment files (if used locally)
+venv/
+.env
+
+# External dependency assets
+assets/external/
+
+# System files
+.DS_Store
+Thumbs.db
