@@ -56,5 +56,5 @@ Pull requests are welcome! If you find a bug or want to suggest a feature, feel 
 
 📬 Contact
 
-If you have any questions or suggestions, feel free to reach out: [david.dev@gmail.com](mailto:padaonecoder@gmail.com)
+If you have any questions or suggestions, feel free to reach out: [padaonecoder@gmail.com](mailto:padaonecoder@gmail.com)
 
