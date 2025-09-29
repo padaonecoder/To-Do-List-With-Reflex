@@ -36,12 +36,6 @@ The app uses a reactive state (State) to manage tasks. Each task is a dictionary
 The UI is built using Reflex components like vstack, hstack, input, button, and foreach.
 
 
-📂 Project Structure
-
-reflex-todo-list/
-├── __init__.py
-├── main.py         # Contains the app logic and UI
-├── README.md
 
 
 🌐 Deployment
