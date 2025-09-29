@@ -58,3 +58,7 @@ Pull requests are welcome! If you find a bug or want to suggest a feature, feel 
 
 If you have any questions or suggestions, feel free to reach out: [padaonecoder@gmail.com](mailto:padaonecoder@gmail.com)
 
+🐙 GitHub Profile
+
+Check out more of my work on [GitHub](https://github.com/padaonecoder)
+
