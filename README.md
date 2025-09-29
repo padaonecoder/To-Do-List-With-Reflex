@@ -22,7 +22,6 @@ A simple and elegant to-do list web app built with [Reflex](https://reflex.dev),
 git clone https://github.com/tu_usuario/reflex-todo-list.git
 cd reflex-todo-list
 
----------------------------------------------------------------------------
 
 Create a virtual environment (optional but recommended):
   python -m venv venv
