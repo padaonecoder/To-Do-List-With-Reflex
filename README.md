@@ -6,10 +6,10 @@ A simple and elegant to-do list web app built with [Reflex](https://reflex.dev),
 
 ## 🚀 Features
 
-- ✅ Add tasks
-- 🔄 Mark tasks as completed
-- ❌ Delete tasks
-- 🌗 Toggle between light and dark mode
+- ✅ Add tasks  
+- 🔄 Mark tasks as completed  
+- ❌ Delete tasks  
+- 🌗 Toggle between light and dark mode  
 - ⚡ Built with Python and Reflex
 
 ---
@@ -25,17 +25,16 @@ cd reflex-todo-list
 ---------------------------------------------------------------------------
 
 Create a virtual environment (optional but recommended):
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+  python -m venv venv
+  source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 Install dependencies:
-pip install -r requirements.txt
+  pip install -r requirements.txt
 
 Run the app locally:
-reflex run
-
+  reflex run
 Then open your browser and go to:
-http://localhost:3000
+  http://localhost:3000
 
 🛑 Notes
 - Do not commit the .web/, .states/, or __pycache__/ folders — they are auto-generated.
