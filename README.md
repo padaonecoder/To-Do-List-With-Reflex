@@ -28,6 +28,7 @@ reflex run
 
 
 🧠 How It Works
+
 The app uses a reactive state (State) to manage tasks. Each task is a dictionary with text and done fields. Users can:
 - Add a task via the input field.
 - Toggle completion status by clicking the checkbox.
@@ -36,10 +37,12 @@ The UI is built using Reflex components like vstack, hstack, input, button, and 
 
 
 📂 Project Structure
+
 reflex-todo-list/
 ├── __init__.py
 ├── main.py         # Contains the app logic and UI
 ├── README.md
+
 
 🌐 Deployment
 
@@ -47,6 +50,7 @@ You can deploy the app using Reflex's built-in deployment tools or host it on pl
 reflex export
 
 🛠 Technologies Used
+
 - 🐍 Python 3.10+
 - ⚛️ Reflex
 - 💡 Reactive programming
