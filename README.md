@@ -42,6 +42,7 @@ reflex-todo-list/
 ├── README.md
 
 🌐 Deployment
+
 You can deploy the app using Reflex's built-in deployment tools or host it on platforms like Vercel or Netlify after exporting it as a static site:
 reflex export
 
